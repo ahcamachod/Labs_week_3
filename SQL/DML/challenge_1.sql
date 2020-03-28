@@ -1,0 +1,1 @@
+select * from challenge_1;
